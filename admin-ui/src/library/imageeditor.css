@@ -1,0 +1,25 @@
+
+.App {
+    text-align: center;
+  }
+  .container {
+    display: block;
+    margin-top: 5rem;
+  }
+  
+  .header{
+    display: block;
+  }
+  
+  .cropButton{
+    position: absolute;
+    top:60%;
+    left: 45%;
+  }
+
+  .cropImg {
+
+    /* width:60%; */
+    height: 400px;
+
+  }
